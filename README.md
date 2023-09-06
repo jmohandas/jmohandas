@@ -37,10 +37,10 @@
 <a href="https://linkedin.com/in/jithumohandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithumohandas" height="80" width="80" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmohandas&" alt="jmohandas" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmohandas&" alt="jmohandas" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmohandas&show_icons=true&locale=en&layout=compact" alt="jmohandas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmohandas&show_icons=true&locale=en&layout=compact" alt="jmohandas" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jmohandas&show_icons=true&locale=en" alt="jmohandas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmohandas&show_icons=true&locale=en" alt="jmohandas" /></p>
 
 
