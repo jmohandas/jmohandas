@@ -31,8 +31,7 @@
 <h2 align="left">Accessory Technologies & Tools:</h2>
 <p align="center"><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="80" height="80"/> </a><a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="80" height="80"/> </a><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="80" height="80"/> </a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="80" height="80"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="80" height="80"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="80" height="80"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a> </p>
 
---------------------
----------------------
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -40,13 +39,14 @@
 <a href="https://linkedin.com/in/jithumohandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithumohandas" height="80" width="80" /></a>
 </p>
 
---------------------
----------------------
+---
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmohandas&" alt="jmohandas" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmohandas&show_icons=true&locale=en&layout=compact" alt="jmohandas" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmohandas&show_icons=true&locale=en" alt="jmohandas" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmohandas&show_icons=true&locale=en&layout=compact" alt="jmohandas" /></p>
+
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmohandas&show_icons=true&locale=en" alt="jmohandas" /></p>
 
 
