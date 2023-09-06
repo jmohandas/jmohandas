@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jithu Mohandas</h1>
 <h3 align="center">Passionate about technology and finance. Currently focused on AWS, Node.js, Go and Flutter</h3>
 
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmohandas&label=Profile%20views&color=0e75b6&style=flat" alt="jmohandas" /> </p>
 
 - 🔭 I’m currently working on **AWS, Node.js, Express.js and Lambdas**
@@ -41,7 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmohandas&show_icons=true&locale=en" alt="jmohandas" /></p>
 <br /><br />
----
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
